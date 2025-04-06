@@ -2,6 +2,8 @@
 
 This tool uses AI to generate Rhino models.
 
+This tool initially uses locally installed large language models, but you can also use API for more advanced cloud models.
+
 More details will be updated soon.
 
 
