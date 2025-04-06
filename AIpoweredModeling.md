@@ -6,6 +6,8 @@ This tool initially uses locally installed large language models, but you can al
 
 More details will be updated soon.
 
+## [Donations for continuing the development](https://github.com/1309928130/donation/tree/main)
+## Contact e-mail: c1309928130@gmail.com
 
 ## FAQs:
 
