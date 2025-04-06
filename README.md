@@ -1,6 +1,6 @@
-# Donate to support the author making more and better tools
+## 💰 Donate to support the author making more and better tools | 捐款以助力作者做出更多更好的软件工具
 
-## 💰 Buy Me a Coffee | 請我喝杯咖啡
+
 
 <div align="center">
   <table>
