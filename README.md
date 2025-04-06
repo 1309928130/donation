@@ -1,4 +1,4 @@
-## 💰 Donate to support the author making more and better tools | 捐款以助力作者做出更多更好的软件工具
+## 💰 Donate to support me in making more and better tools | 捐款助力作者做更多更好的软件
 
 
 
@@ -6,11 +6,13 @@
   <table>
     <tr>
       <td>
-        <img src=".Capture0406.PNG" alt="buy_me_a_coffee" width="500"/><br>
+        <img src="Capture0406.PNG" alt="donation_link" width="1500"/><br>
       </td>
     </tr>
   </table>
 </div>
+
+
 
 
 
