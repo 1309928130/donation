@@ -1,5 +1,5 @@
 ## AI Powered Modeling
 
-This tool uses AI for generating Rhino models.
+This tool uses AI to generate Rhino models.
 
-More details will be update soon.
+More details will be updated soon.
