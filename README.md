@@ -1,4 +1,4 @@
-## 💰 Donate to support me in making more and better tools | 捐款助力作者做更多更好的软件
+## 💰 Donate to support me in developing better tools | 捐款助力作者持续开发软件
 
 
 
