@@ -6,10 +6,7 @@
   <table>
     <tr>
       <td>
-        <img src="./images/provi-code.jpg" alt="buy_me_a_coffee" width="280"/><br>
-      </td>
-      <td>
-        <img src="./images/paypal.png" alt="buy_me_a_coffee" width="280"/><br>
+        <img src=".Capture0406.PNG" alt="buy_me_a_coffee" width="500"/><br>
       </td>
     </tr>
   </table>
