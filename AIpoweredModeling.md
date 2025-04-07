@@ -19,7 +19,7 @@ Download it from [Food4Rhino](https://www.food4rhino.com/en/app/pandamodeling-ai
 It can use 1) API for advanced cloud _large language models (LLMs)_ or 2) locally installed _LLMs_. You can choose either or both, but the first one is more recommended. The first one is more accurate. The second one hardly works (too many errors because the local models are generally not smart enough).
 
 ## 1) Buy an API, using cloud large language models
-Generate a DeepSeek API key here: [https://platform.deepseek.com/api_keys](https://platform.deepseek.com/api_keys), copy it,   
+Generate a DeepSeek API key here: [https://platform.deepseek.com/api_keys](https://platform.deepseek.com/api_keys), copy the API,   
 and top up some money in your account: [https://platform.deepseek.com/usage](https://platform.deepseek.com/usage).  
 Copy the DeepSeek API to our Plugin (i.e., PandaModeling) using the **`Settings`** button.
 
