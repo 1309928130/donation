@@ -4,20 +4,18 @@
   <table>
     <tr>
       <!-- Image 1 -->
-      <td>
-        <img src="tu_pian_1.png" alt="Image 1" width="400"/><br>
-        <em>Caption 1</em>
-      </td>
-      <!-- Image 2 -->
-      <td>
-        <img src="tu_pian_2.png" alt="Image 2" width="400"/><br>
-        <em>Caption 2</em>
-      </td>
+      <td><img src="tu_pian_1.png" alt="Image 1" width="500" style="display: block;"></td>
       <!-- Image 3 -->
-      <td>
-        <img src="tu_pian_3.png" alt="Image 3" width="400"/><br>
-        <em>Caption 3</em>
-      </td>
+      <td><img src="tu_pian_3.png" alt="Image 3" width="500" style="display: block;"></td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <!-- Image 2 -->
+    <tr>
+      <td><img src="tu_pian_2.png" alt="Image 2" width="500" style="display: block;"></td>
     </tr>
   </table>
 </div>
