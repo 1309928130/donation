@@ -14,7 +14,7 @@
 
 This tool uses AI to generate Rhino models.
 
-Download it from [Food4Rhino](https://www.food4rhino.com/en/app/pandamodeling-ai-modeling?lang=en), unzip the .zip file, drag the .rhp file into any Rhino window, and type **`AIChat`** in the command, now you can see the plugin's interface. 
+Download it from [Food4Rhino](https://www.food4rhino.com/en/app/pandamodeling-ai-modeling?lang=en), unzip the .zip file, drag the .rhp file into any opening Rhino window, and type **`AIChat`** in the command, now you can see the plugin's interface. 
 
 It can use 1) API for advanced cloud _large language models (LLMs)_ or 2) locally installed _LLMs_. You can choose either or both, but the first one is more recommended. The first one is more accurate. The second one hardly works (too many errors because the local models are generally not smart enough).
 
