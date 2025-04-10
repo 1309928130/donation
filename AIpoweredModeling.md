@@ -40,7 +40,8 @@ ollama run llama3
 ## More details will be updated soon.
 
 - [Donations for continuing the development](https://github.com/1309928130/donation/tree/main)
-- Contact us: c1309928130@gmail.com
+- Contact me: c1309928130@gmail.com
+- [Follow on Linkedin](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
 
 ## FAQs:
 [See this page](https://github.com/1309928130/donation/blob/main/FAQs.md)
