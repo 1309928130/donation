@@ -16,7 +16,7 @@
      style="font-size: 20px; font-weight: bold; background-color: #f9d71c; color: black; 
             padding: 12px 24px; border-radius: 8px; text-decoration: none; 
             display: inline-block; border: 2px solid #333; margin-top: 20px;">
-    🔽 Click Here to Download
+    🔽 Click Here to Buy and Download the Pro-vision
   </a>
   
   <p style="color: red; font-weight: bold; margin-top: 20px;">
