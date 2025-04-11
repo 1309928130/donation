@@ -4,11 +4,11 @@
   <table>
     <tr>
       <!-- Image 1 -->
-      <td><img src="pictures/PandaMeasuring_0.jpg" alt="Image 1" width="1500" style="display: block;"></td>
+      <td><img src="pictures/PandaMeasuring.jpg" alt="Image 1" width="1500" style="display: block;"></td>
     </tr>
     <tr>
       <!-- Image 2 -->
-      <td><img src="pictures/PandaMeasuring.jpg" alt="Image 3" width="1500" style="display: block;"></td>
+      <td><img src="pictures/PandaMeasuring_0.jpg" alt="Image 3" width="1500" style="display: block;"></td>
     </tr>
   </table>
 </div>
