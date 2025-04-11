@@ -2,6 +2,42 @@
 
 <div align="center">
   <table>
+  </table>
+    <table>
+  </table>
+    <table>
+  </table>
+</div>
+
+<!-- Download Section (Centered + Extra Spacing) -->
+<div align="center" style="margin: 60px 0;">
+  
+  <a href="http://www.pandaai.vip/" target="_blank" 
+     style="font-size: 20px; font-weight: bold; background-color: #f9d71c; color: black; 
+            padding: 12px 24px; border-radius: 8px; text-decoration: none; 
+            display: inline-block; border: 2px solid #333; margin-top: 20px;">
+    🔽 Click Here to Download
+  </a>
+  
+  <p style="color: red; font-weight: bold; margin-top: 20px;">
+    ⚠️ Due to maintenance, the downloading and payment page is temporarily unavailable.
+  </p>
+</div>
+
+
+
+<div align="center">
+  <table>
+  </table>
+    <table>
+  </table>
+    <table>
+  </table>
+</div>
+
+
+<div align="center">
+  <table>
     <tr>
       <!-- Image 1 -->
       <td><img src="pictures/PandaMeasuring.jpg" alt="Image 1" width="1500" style="display: block;"></td>
