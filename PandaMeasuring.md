@@ -22,7 +22,3 @@ This tool helps you automatically measure the density-related values.
 - Contact me: c1309928130@gmail.com
 - [Linkedin](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
 
-## FAQs:
-[See this page](https://github.com/1309928130/donation/blob/main/FAQs.md)
-
-
