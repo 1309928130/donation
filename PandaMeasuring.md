@@ -55,6 +55,7 @@ This tool helps you automatically measure the density-related values.
 ## More details will be updated soon.
 
 - [Donations for continuing the development](https://github.com/1309928130/donation/tree/main)
+- Send messages telling me what other variables you want to measure. I will develop them in the later versions.
 - Contact me: c1309928130@gmail.com
 - [Linkedin](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
 
