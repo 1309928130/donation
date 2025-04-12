@@ -50,7 +50,10 @@
 </div>
 
 
-This tool helps you automatically measure the density-related values.
+This tool helps you automatically measure the density-related values. 
+
+Download and unzip the .zip file, open Grasshopper in Rhino, and drag the .gh file into Grasshopper. Right-click the Breps function, and select multiple breps (i.e., building in your Rhino model); Right-click the Surface function, and select the site surface; Set the floor height; Then you will get the results.
+
 
 ## More details will be updated soon.
 
