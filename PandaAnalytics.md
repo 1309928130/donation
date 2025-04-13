@@ -5,6 +5,10 @@
   <table>
     <tr>
       <!-- Image 1 -->
+      <td><img src="pictures/PandaAnalytics_1.png" alt="Image 1" width="1500" style="display: block;"></td>
+    </tr>    
+    <tr>
+      <!-- Image 1 -->
       <td><img src="pictures/panda_analytics_1.png" alt="Image 1" width="1500" style="display: block;"></td>
     </tr>
   </table>
