@@ -1,4 +1,14 @@
-# PandaMeasuring —— Automate the measuring of your models
+
+<div align="center">
+  <h1><img src="pictures/PandaCalculator.png" alt="icon" height="120" style="vertical-align: middle;"> PandaMeasuring —— Automate the measuring</h1>
+</div>
+
+
+
+
+
+
+
 
 <div align="center">
   <table>
