@@ -7,6 +7,19 @@
 
 <div align="center">
   <table>
+  </table>
+    <table>
+  </table>
+    <table>
+  </table>
+</div>
+
+
+
+
+
+<div align="center">
+  <table>
     <tr>
       <!-- Image 1 -->
       <td><img src="pictures/PandaAnalytics_1.png" alt="Image 1" width="1500" style="display: block;"></td>
