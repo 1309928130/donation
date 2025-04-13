@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1><img src="pictures/WX20250406-235356@2x.png" alt="icon" height="120" style="vertical-align: middle;"> PandaModeling —— AI Powered Modeling</h1>
+  <h1><img src="pictures/panda_modeling.png@2x.png" alt="icon" height="120" style="vertical-align: middle;"> PandaModeling —— AI Powered Modeling</h1>
 </div>
 
 <div align="center">
