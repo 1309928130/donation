@@ -1,4 +1,9 @@
-# PandaAnalytics —— Assess your design proposals using agent-based simulation
+# 
+
+
+<div align="center">
+  <h1><img src="pictures/PandaAnalytics.png" alt="icon" height="120" style="vertical-align: middle;"> PandaAnalytics —— Assess your design proposals </h1>
+</div>
 
 
 <div align="center">
