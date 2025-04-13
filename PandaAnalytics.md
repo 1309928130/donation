@@ -1,4 +1,4 @@
-# PandaAnalytics —— Analyze your design proposals using agent-based simulation
+# PandaAnalytics —— Assess your design proposals using agent-based simulation
 
 
 <div align="center">
