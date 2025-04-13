@@ -1,4 +1,7 @@
-# PandaModeling —— AI Powered Modeling
+
+<div align="center">
+  <h1><img src="pictures/WX20250406-235356@2x.png" alt="icon" height="120" style="vertical-align: middle;"> PandaModeling —— AI Powered Modeling</h1>
+</div>
 
 <div align="center">
   <table>
