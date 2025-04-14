@@ -5,6 +5,17 @@
 </div>
 
 
+<!-- Download Section (Centered + Extra Spacing) -->
+<div align="center" style="margin: 60px 0;">
+
+  <a href="https://www.food4rhino.com/en/app/pandaanalytics" target="_blank" 
+   style="font-size: 20px; font-weight: bold; background-color: #f9d71c; color: black; 
+          padding: 12px 24px; border-radius: 8px; text-decoration: none; 
+          display: inline-block; border: 2px solid #333; margin-top: 20px;">
+  🔽 Download it from  Food4Rhino
+  
+  </p>
+
 <div align="center">
   <table>
   </table>
