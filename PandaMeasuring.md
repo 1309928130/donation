@@ -21,18 +21,29 @@
 
 <!-- Download Section (Centered + Extra Spacing) -->
 <div align="center" style="margin: 60px 0;">
+
+  <a href="https://www.food4rhino.com/en/app/pandameasuring" target="_blank" 
+   style="font-size: 20px; font-weight: bold; background-color: #f9d71c; color: black; 
+          padding: 12px 24px; border-radius: 8px; text-decoration: none; 
+          display: inline-block; border: 2px solid #333; margin-top: 20px;">
+  🔽 Try the free version
   
   <a href="http://www.pandaai.vip/" target="_blank" 
      style="font-size: 20px; font-weight: bold; background-color: #f9d71c; color: black; 
             padding: 12px 24px; border-radius: 8px; text-decoration: none; 
             display: inline-block; border: 2px solid #333; margin-top: 20px;">
-    🔽 Click Here to Buy and Download the Pro-vision
+    🔽 Buy the Pro-vision
   </a>
   
   <p style="color: red; font-weight: bold; margin-top: 20px;">
-    ⚠️ Due to maintenance, the downloading and payment page is temporarily unavailable.
+    ⚠️ Due to maintenance, the pro-version downloading and payment page is temporarily unavailable.
   </p>
+
+
+
+</a>
 </div>
+
 
 
 
