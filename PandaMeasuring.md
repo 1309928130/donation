@@ -71,7 +71,13 @@
 </div>
 
 
-This tool helps you automatically measure the density-related values. 
+This tool helps you automatically measure several density-related values, including:
+1. FSI – Floor Space Index (or Floor Area Ratio, FAR);
+2. OSR – Open Space Ratio；
+3. GSI – Ground Space Index (or Site Coverage).
+4. Average floors of buildings.
+
+[These variables are adopted from this paper: Berghauser Pont, M., & Haupt, P. (2005). The Spacemate: Density and the typomorphology of the urban fabric. Nordic Journal of Architectural Research, 4, 55–68.](https://www.researchgate.net/profile/Meta-Berghauser-Pont/publication/284028541_The_Spacemate_Density_and_the_typomorphology_of_the_urban_fabric/links/564b237208ae44e7a28f17ff/The-Spacemate-Density-and-the-typomorphology-of-the-urban-fabric.pdf)
 
 Download and unzip the .zip file, open Grasshopper in Rhino, and drag the .gh file into Grasshopper. Right-click the Breps function, and select multiple breps (i.e., building in your Rhino model); Right-click the Surface function, and select the site surface; Set the floor height; Then you will get the results.
 
