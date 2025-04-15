@@ -42,6 +42,7 @@
   </table>
 </div>
 
+<div align="left">
 
 This tool helps you simulate design proposals and evaluate the possible user experiences in the design proposals (therefore, it also assesses the performances of design proposals). 
 The user experiences include:
@@ -51,7 +52,7 @@ The user experiences include:
 - Visual quality.
 
 These experiences are based on two types of simulations: 1) the movement and 2) the vision of the pedestrians (agents).
-This plugin originates from a previous research study I did, and the outcome has been published in [this article](https://www.sciencedirect.com/science/article/pii/S0195925524002725).
+This plugin originates from a previous research study I did, and the outcome has been published in [Enshan, C., van de Spek, S., van der Hoeven, F., & Triggianese, M. (2025). Evaluate user satisfaction for urban design of railway station areas: An assessment framework using agent-based simulation. Environmental Impact Assessment Review, 110, 107685. https://doi.org/10.1016/j.eiar.2024.107685](https://www.sciencedirect.com/science/article/pii/S0195925524002725).
 
 This plugin is still under development to make it more user-friendly. The current version is not complete yet (some functions are not usable). You need to run the movement simulation using another commercial software, MassMotion. Then, export the agents' trajectories and summary data, and import those data into this plugin. 
 
