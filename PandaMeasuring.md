@@ -74,7 +74,7 @@
 This tool helps you automatically measure several density-related values, including:
 1. FSI – Floor Space Index (or Floor Area Ratio, FAR);
 2. OSR – Open Space Ratio；
-3. GSI – Ground Space Index (or Site Coverage).
+3. GSI – Ground Space Index.
 4. Average floors of buildings.
 
 [These variables are adopted from this paper: Berghauser Pont, M., & Haupt, P. (2005). The Spacemate: Density and the typomorphology of the urban fabric. Nordic Journal of Architectural Research, 4, 55–68.](https://www.researchgate.net/profile/Meta-Berghauser-Pont/publication/284028541_The_Spacemate_Density_and_the_typomorphology_of_the_urban_fabric/links/564b237208ae44e7a28f17ff/The-Spacemate-Density-and-the-typomorphology-of-the-urban-fabric.pdf)
